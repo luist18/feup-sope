@@ -9,7 +9,7 @@ void *PrintHello(void *threadnum)
 }
 
 /**
- * The thread may not be terminated when the cicle goes to the next iteration, so, as threads share memory with the main 
+ * The thread may not be terminated when the cycle goes to the next iteration, so, as threads share memory with the main 
  * thread the previous number is not going to be printed out. Simply solved with a pthread_join.
  */
 int main()
