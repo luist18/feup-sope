@@ -1,6 +1,6 @@
 # feup-sope
 
-[![GitHub license](https://img.shields.io/github/license/luist18/feup-mpcp)](https://github.com/luist18/feup-mpcp/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/luist18/feup-sope)](https://github.com/luist18/feup-sope/blob/master/LICENSE)
 
 This repository comprises the exercises done within the course unit Operating Systems. The exercises approach multiple resources of the Unix API for C.
 
